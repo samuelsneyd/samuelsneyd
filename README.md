@@ -12,7 +12,6 @@ I'm Samuel, a software engineer from New Zealand.
       <td>Python</td>
       <td>HTML</td>
       <td>CSS</td>
-      <td>Java</td>
     </tr>
   </thead>
   <tbody>
@@ -22,7 +21,6 @@ I'm Samuel, a software engineer from New Zealand.
       <td><img alt="Python" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
       <td><img alt="HTML5" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
       <td><img alt="CSS3" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-      <td><img alt="Java" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></td>
     </tr>
   </tbody>
 </table>
@@ -59,7 +57,7 @@ I'm Samuel, a software engineer from New Zealand.
   </thead>
   <tbody>
     <tr>
-      <td><img alt="MongoDB" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></td>
+      <td><img alt="MongoDB" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
       <td><img alt="PostgreSQL" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>    
     </tr>
   </tbody>
