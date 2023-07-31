@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Samuel, a software engineer in Australia, originally from New Zealand.
+I'm Samuel, a software engineer and AWS solutions architect based in Australia, originally from New Zealand.
 
 Pronouns: he/him.
 
@@ -72,6 +72,22 @@ On the side, I'm currently working collaboratively with a designer and digital m
     </tr>
   </tbody>
 </table>
+
+## Infrastructure
+
+<table>
+  <thead>
+    <tr>
+      <td>AWS</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img alt="Cucumber" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Testing
 
