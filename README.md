@@ -1,14 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Samuel, a software engineer from New Zealand.
+I'm Samuel, a software engineer in Australia, originally from New Zealand.
+
+Pronouns: he/him.
+
+## What I'm working on
+
+My day job since early 2021 is in full-stack web applications and backend microservices for a digital marketing agency. Primarily using TypeScript, Node.js, MongoDB, AWS, AngularJS, React, and other tools in the JavaScript ecosystem.
+
+On the side, I'm currently working collaboratively with a designer and digital marketer on a full-stack native mobile application for writers to track and improve their writing habits and productivity. The app is built with TypeScript, React Native, and an AWS serverless infrastructure. It will be released on iOS and Android in late 2023. See the repo <a href="https://github.com/samuelsneyd/writing-tracker">here</a>!
 
 ## Languages
 
 <table>
   <thead>
     <tr>
-      <td>JavaScript</td>
       <td>TypeScript</td>
+      <td>JavaScript</td>
       <td>Python</td>
       <td>HTML</td>
       <td>CSS</td>
@@ -16,8 +24,8 @@ I'm Samuel, a software engineer from New Zealand.
   </thead>
   <tbody>
     <tr>
-      <td><img alt="JavaScript" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
       <td><img alt="TypeScript" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+      <td><img alt="JavaScript" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
       <td><img alt="Python" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
       <td><img alt="HTML5" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
       <td><img alt="CSS3" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
@@ -52,12 +60,14 @@ I'm Samuel, a software engineer from New Zealand.
   <thead>
     <tr>
       <td>MongoDB</td>
+      <td>DynamoDB</td>
       <td>PostgreSQL</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img alt="MongoDB" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+      <td><img alt="DynamoDB" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" height=50/></td>
       <td><img alt="PostgreSQL" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>    
     </tr>
   </tbody>
@@ -87,18 +97,3 @@ I'm Samuel, a software engineer from New Zealand.
     </tr>
   </tbody>
 </table>
-
-<!--
-**samuelsneyd/samuelsneyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
